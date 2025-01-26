@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @samreaver
-- 👀 I’m interested in machine learning
-- 🌱 I’m currently learning the same
-- 💞️ I’m looking to collaborate on python projects
+- 👋 Hi, I’m Sameer Kumar
+- 👀 I’m interested in software development and data analytics
+- 🌱 I’m currently learning Deep Learning
+- 💞️ I’m looking to collaborate on web development projects
 - 📫 How to reach me at sameerkumarofficial14@gmail.com
 
 <!---
